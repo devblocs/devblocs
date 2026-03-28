@@ -4,13 +4,13 @@ Replace the dummy values below with your real information.
 This file is meant for the public GitHub profile repository named exactly like your username.
 -->
 
-<h1 align="center">Hi there, I'm Aarav Sharma 👋</h1>
-<h3 align="center">Full-Stack Developer • Open-Source Enthusiast • Building useful products for the web</h3>
+<h1 align="center">Hi there, I'm Venkatesh Jeyakumaresan 👋</h1>
+<h3 align="center">Back End Developer • Open-Source Enthusiast • Building useful products for the web</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aarav-sharma&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/aarav-sharma?label=Followers&style=flat" alt="followers" />
-  <img src="https://img.shields.io/github/stars/aarav-sharma?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=devblocs&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/devblocs?label=Followers&style=flat" alt="followers" />
+  <img src="https://img.shields.io/github/stars/devblocs?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="stars" />
 </p>
 
 <p align="center">
